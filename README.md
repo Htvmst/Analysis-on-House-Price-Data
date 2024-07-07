@@ -6,9 +6,13 @@ The goal of this project is to analyze housing data from a builder community. Th
 ### Data Overview
 
 Total Observations: 506
+
 Attributes: 19 (16 numerical, 3 categorical)
+
 Numerical Attributes: 15 floats, 1 integer
+
 Categorical Attributes: 3
+
 Null Values: Present and handled as per standard practices
 
 
